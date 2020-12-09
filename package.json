@@ -30,13 +30,6 @@
       "eslint-utils": "^2.0.0",
       "tsutils": "^3.0.0"
    },
-   "peerDependencies": {
-      "@typescript-eslint/eslint-plugin": "^4.0.0",
-      "@typescript-eslint/parser": "^4.0.0",
-      "eslint": "^7.0.0",
-      "eslint-plugin-react": "^7.16.0",
-      "typescript": "^4.0.0"
-   },
    "devDependencies": {
       "@types/eslint": "^7.0.0",
       "@types/jest": "^26.0.0",
